@@ -21,7 +21,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "stm32f1xx_hal.h"
+#include "stm32f1xx_hal.h"+
+
 #include "config.h"
 #include "defines.h"
 #include "eeprom.h"
